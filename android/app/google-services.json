@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "672650725357",
+    "firebase_url": "https://esp32-rtdb-b9561-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-rtdb-b9561",
+    "storage_bucket": "esp32-rtdb-b9561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672650725357:android:4a452e101d0f0cc66249e4",
+        "android_client_info": {
+          "package_name": "com.example.gm_car_location_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFBlRjWdylSjHmdwzu1AgSbulp4djW1hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
